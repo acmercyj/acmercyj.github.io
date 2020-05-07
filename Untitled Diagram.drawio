@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-07T15:07:55.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Qdrn4YpRyFIczsI43QET" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-07T15:08:35.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="VZ4MJ8RpeuzTjE66ZgfD" version="13.0.9" type="github">
   <diagram id="ozWX-8Dkmfncpo7_wP8C" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,8 +122,8 @@
             <mxPoint x="373" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YcwsBy4JarNpGmMt0fvK-32" value="具体游戏协议交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="700" width="110" height="20" as="geometry" />
+        <mxCell id="YcwsBy4JarNpGmMt0fvK-32" value="加入房间成功，具体游戏协议交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="700" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YcwsBy4JarNpGmMt0fvK-35" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
