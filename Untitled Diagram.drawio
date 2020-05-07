@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-07T15:07:11.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="bmb3UguOM5bSDuBDRZ8Y" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-07T15:07:55.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Qdrn4YpRyFIczsI43QET" version="13.0.9" type="github">
   <diagram id="ozWX-8Dkmfncpo7_wP8C" name="Page-1">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,8 +149,8 @@
             <mxPoint x="80" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YcwsBy4JarNpGmMt0fvK-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="173" y="944" width="40" height="20" as="geometry" />
+        <mxCell id="YcwsBy4JarNpGmMt0fvK-40" value="同步玩家信息，提示充值成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="108" y="944" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
